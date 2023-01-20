@@ -54,7 +54,7 @@ Logical and or are used to compare 2  or more conditions
    Loop -they repeat block of code a number of times(needed to repeat repetitive code)
 
    4 loops in Java:
-   Use when we dont know how many times you will repeat the code
+   Use when we don't know how many times you will repeat the code
    while
    do while
 

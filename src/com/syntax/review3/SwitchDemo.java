@@ -1,4 +1,4 @@
-package com.syntax;
+package com.syntax.review3;
 
 public class SwitchDemo {
     public static void main(String[] args) {
