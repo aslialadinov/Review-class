@@ -12,6 +12,6 @@ public class MoreNestedLoops {
         }
         System.out.println("-----------What is the output-------------");
 
-        
+
     }
 }
