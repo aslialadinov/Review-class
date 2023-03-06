@@ -1,0 +1,63 @@
+Logical Operators
+
+    AND  OR  NOT
+    &&   ||  !
+Logical and or are used to compare 2  or more conditions
+    AND
+    true && true->TRUE
+    true && false-?FALSE
+    false && true ->FALSE
+    false && false ->FALSE
+
+    boolean cold=tru;
+    boolean rain=true;
+    if (cold) {
+    Sout("I will stay ay home");
+    }
+
+    OR
+    true || true->true
+    true || false->True
+    false|| true ->True
+    false || false->False
+
+    Logical not reverses condition.
+
+    Switch Statement -
+
+
+    syntax
+
+    switch ( variable){
+
+    case value1:
+        code A;
+        break;
+
+    case value2:
+        code B;
+        break;
+
+    default:
+          code C;
+          break;
+
+
+
+
+    }
+    Value of case and switch variable must be same
+    Default- must be in switch block and it is optional and it can be anywhere is switch block,
+    prefered to have it at the bottom
+
+   -------------------------------------------------------------------------------------
+   Loop -they repeat block of code a number of times(needed to repeat repetitive code)
+
+   4 loops in Java:
+   Use when we don't know how many times you will repeat the code
+   while
+   do while
+
+  Use when you know in advance how many times you will repeat block of code
+   for
+   for each/advanced for loop/ enhanced for loop
