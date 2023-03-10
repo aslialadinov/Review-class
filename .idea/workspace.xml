@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02811a3e-8670-495d-a99d-1ef21cb9cf63" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Files/Book2.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/Config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review11/ConfigFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review11/EntrySetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review11/EntrySetDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review11/ExcelDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review11/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Review.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Review.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/asala/OneDrive/Desktop/Apache POI/poi-bin-5.2.3-20220909/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
